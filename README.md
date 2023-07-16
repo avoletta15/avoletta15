@@ -74,8 +74,14 @@ typedef struct Myself{
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a> 
-  <a href="https://pytorch.org/" target="_blank"> 
+  <a href="https://www.swift.org/" target="_blank"> 
     <img src="https://www.swift.org/assets/images/swift.svg" alt="Swift" width="80" height="30"/> 
+  </a> 
+   <a href="https://www.notion.so/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/200px-Notion-logo.svg.png?20220918151013" alt="Notion" width="35" height="35"/> 
+  </a> 
+   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" alt="Excel" width="40" height="35"/> 
   </a> 
 </p>
 
