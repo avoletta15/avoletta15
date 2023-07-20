@@ -12,7 +12,7 @@
     </td>
 </table>
 
-<h2 align="left">My 42 school projects</h2>
+<h2 align="left">My school projects - 42 Lisboa</h2>
 
 <table style="width:100%">
   <tr>
